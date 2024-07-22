@@ -1,5 +1,7 @@
-## 21/07/2024
-## Day 2
+# CrackYourInternship
+
+# Day 2: 21/07/2024
+
 ## 1. [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
 ```JAVA
 class Solution
@@ -18,7 +20,7 @@ class Solution
     }
 }
 ```
-##2. [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+## 2. [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 ```
 import java.util.Arrays;
 
@@ -43,7 +45,7 @@ public class TwoSum {
 }
 
 ```
-##3. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+## 3. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 ```
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
@@ -55,7 +57,7 @@ class Solution {
     }
 }
 ```
-##4. [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
+## 4. [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 ```
 class Solution {
     public int majorityElement(int[] nums) {
@@ -65,7 +67,7 @@ class Solution {
     }
 }
 ```
-##5. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+## 5. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 ```
 class Solution {
     public boolean isValid(String s) {
