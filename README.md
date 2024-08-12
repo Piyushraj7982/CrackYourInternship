@@ -47,8 +47,6 @@ To get started with the challenge, follow these steps:
    cd CrackYourInternship
    ```
 
-3. **Start solving the daily set of questions** according to the [Daily Progress](#daily-progress) section.
-
 ## DSA Topics Covered
 
 - Arrays
